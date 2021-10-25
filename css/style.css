@@ -48,7 +48,7 @@ ul {
   text-align: center;
   color: white;
   padding: 20px;
-  font-weight: 6000;
+  font-weight: 600;
   font-size: 40px;
 }
 
@@ -57,11 +57,11 @@ p {
   color: #be3144;
 }
 
-.projects-container{
+.projects-container {
   display: grid;
 }
 
-.projects{
+.projects {
   padding-top: 80px;
   display: flex;
   justify-content: center;
@@ -70,7 +70,8 @@ p {
   height: 55vh;
   background: #45567d;
 }
-.project{
+
+.project {
   display: flex;
   padding: 10px;
   color: white;
